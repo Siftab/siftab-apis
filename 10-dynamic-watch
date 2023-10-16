@@ -1,0 +1,122 @@
+ [
+    {
+      "model": "Apple Watch Series 6",
+      "brand": "Apple",
+      "price": 399.99,
+      "display": "OLED Retina display",
+      "battery_life": "Up to 18 hours",
+      "water_resistance": "Water-resistant up to 50 meters",
+      "connectivity": "Bluetooth, Wi-Fi, GPS",
+      "health_features": ["ECG", "Blood oxygen monitoring", "Heart rate tracking"],
+      "os": "watchOS 7",
+      "image": "apple_watch_series_6.jpg"
+    },
+    {
+      "model": "Samsung Galaxy Watch 4",
+      "brand": "Samsung",
+      "price": 299.99,
+      "display": "Super AMOLED display",
+      "battery_life": "Up to 40 hours",
+      "water_resistance": "Water-resistant up to 50 meters",
+      "connectivity": "Bluetooth, Wi-Fi, GPS",
+      "health_features": ["ECG", "Blood pressure monitoring", "Heart rate tracking"],
+      "os": "Tizen OS",
+      "image": "samsung_galaxy_watch_4.jpg"
+    },
+    {
+      "model": "Fitbit Versa 3",
+      "brand": "Fitbit",
+      "price": 229.99,
+      "display": "AMOLED display",
+      "battery_life": "Up to 6 days",
+      "water_resistance": "Water-resistant up to 50 meters",
+      "connectivity": "Bluetooth, Wi-Fi, GPS",
+      "health_features": ["Heart rate tracking", "SpO2 monitoring", "Sleep tracking"],
+      "os": "Fitbit OS",
+      "image": "fitbit_versa_3.jpg"
+    },
+    {
+      "model": "Garmin Forerunner 945",
+      "brand": "Garmin",
+      "price": 599.99,
+      "display": "Sunlight-visible, transflective memory-in-pixel (MIP)",
+      "battery_life": "Up to 2 weeks",
+      "water_resistance": "Water-resistant up to 50 meters",
+      "connectivity": "Bluetooth, Wi-Fi, GPS",
+      "health_features": ["Heart rate tracking", "Pulse Ox sensor", "VO2 max estimation"],
+      "os": "Garmin OS",
+      "image": "garmin_forerunner_945.jpg"
+    },
+    {
+      "model": "Huawei Watch GT 3",
+      "brand": "Huawei",
+      "price": 259.99,
+      "display": "AMOLED display",
+      "battery_life": "Up to 14 days",
+      "water_resistance": "Water-resistant up to 50 meters",
+      "connectivity": "Bluetooth, Wi-Fi, GPS",
+      "health_features": ["Heart rate tracking", "SpO2 monitoring", "Stress tracking"],
+      "os": "LiteOS",
+      "image": "huawei_watch_gt_3.jpg"
+    },
+    {
+      "model": "Fossil Gen 5",
+      "brand": "Fossil",
+      "price": 199.99,
+      "display": "AMOLED display",
+      "battery_life": "Up to 24 hours",
+      "water_resistance": "Swimproof",
+      "connectivity": "Bluetooth, Wi-Fi, GPS",
+      "health_features": ["Heart rate tracking", "NFC payments", "Built-in GPS"],
+      "os": "Wear OS",
+      "image": "fossil_gen_5.jpg"
+    },
+    {
+      "model": "Xiaomi Amazfit GTS 2",
+      "brand": "Xiaomi",
+      "price": 149.99,
+      "display": "AMOLED display",
+      "battery_life": "Up to 7 days",
+      "water_resistance": "Water-resistant up to 50 meters",
+      "connectivity": "Bluetooth, Wi-Fi, GPS",
+      "health_features": ["Heart rate tracking", "SpO2 monitoring", "Sleep quality assessment"],
+      "os": "Amazfit OS",
+      "image": "xiaomi_amazfit_gts_2.jpg"
+    },
+    {
+      "model": "TicWatch Pro 3",
+      "brand": "Mobvoi",
+      "price": 299.99,
+      "display": "Dual-layer AMOLED and FSTN display",
+      "battery_life": "Up to 45 days (Essential Mode), up to 3 days (Smart Mode)",
+      "water_resistance": "IP68",
+      "connectivity": "Bluetooth, Wi-Fi, GPS",
+      "health_features": ["Heart rate tracking", "SpO2 monitoring", "Sleep tracking"],
+      "os": "Wear OS",
+      "image": "ticwatch_pro_3.jpg"
+    },
+    {
+      "model": "Amazfit Bip U Pro",
+      "brand": "Amazfit",
+      "price": 69.99,
+      "display": "TFT display",
+      "battery_life": "Up to 9 days",
+      "water_resistance": "5 ATM",
+      "connectivity": "Bluetooth, GPS",
+      "health_features": ["Heart rate tracking", "SpO2 monitoring", "PAI (Personal Activity Intelligence)"],
+      "os": "Amazfit OS",
+      "image": "amazfit_bip_u_pro.jpg"
+    },
+    {
+      "model": "Withings Steel HR Sport",
+      "brand": "Withings",
+      "price": 179.99,
+      "display": "Analog sub-dial with OLED screen",
+      "battery_life": "Up to 25 days",
+      "water_resistance": "Water-resistant up to 50 meters",
+      "connectivity": "Bluetooth, GPS",
+      "health_features": ["Heart rate tracking", "VO2 max estimation", "Connected GPS"],
+      "os": "Nokia Health Mate",
+      "image": "withings_steel_hr_sport.jpg"
+    }
+  ]
